@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+beautifulsoup4
+requests
+yaml
+sqlalchemy
+psycopg2
+psycopg2-binary 
+wordcloud
+gensim
+pyLDAvis
+Sastrawi
+
+
+
+
